@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{46051417-1410-CAF6-854B-9410EFCF63D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Project/Scripts/ButtModel.cs">
+    <Files>
+      <File FileName="Assets/Project/Scripts/ButtModel.cs" Line="26" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR-View" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Project" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="ButtModel.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8e0843fc-24c7-4950-bbe8-12296b8b116d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

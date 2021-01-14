@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Extern\Outline\Scripts\Outline.cs" />
+    <Compile Include="Assets\Project\Scripts\ButtModel.cs" />
     <Compile Include="Assets\Project\Scripts\Info.cs" />
     <Compile Include="Assets\Project\Scripts\Managers\InfoMan.cs" />
     <Compile Include="Assets\Project\Scripts\Managers\InteractionMan.cs" />
